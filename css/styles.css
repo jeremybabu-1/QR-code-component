@@ -1,0 +1,24 @@
+body {
+  text-align: center;
+}
+
+.topcon {
+  border-radius: 25px;
+  background-color: #0096FF;
+  margin: 5%;
+  margin-top: 0;
+}
+
+.middlecon {
+  width: 25%;
+  margin: 0 auto 0 auto;
+}
+
+.bottomcon {
+  width: 25%;
+  padding-bottom:  7%;
+  text-align: center;
+  line-height: 2;
+  margin: 0 auto 0 auto;
+  margin-bottom: 30px;
+}
